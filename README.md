@@ -1,3 +1,3 @@
 # PythonStaticWeb
 
-[1](/01/calculator.html)
+[Calculator](/01/calculator.html)
